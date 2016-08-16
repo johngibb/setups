@@ -66,4 +66,4 @@ fastlane beta --env development
 
 and store the configuration in `.env.development` with all keys for the development environment.
 
-Install `sudo gem install dotenv` or add `dotenv` to your `Gemfile`. More information about the [recommend way to install gems](https://guides.cocoapods.org/using/a-gemfile.html).
+Install `sudo gem install dotenv` or add `dotenv` to your `Gemfile`. More information about the [recommended way to install gems](https://guides.cocoapods.org/using/a-gemfile.html).
